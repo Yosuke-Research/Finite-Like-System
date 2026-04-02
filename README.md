@@ -44,6 +44,7 @@ Run EO monitoring:
 ```bash
 python3 finite_like_eo.py
 ```
+See also: [`example_output.md`](./example_output.md)
 
 ## Author
 
