@@ -46,6 +46,8 @@ python3 finite_like_eo.py
 ```
 See also: [`example_output.md`](./example_output.md)
 
+For technical notes and paper–code correspondence, see [`DETAILS.md`](./DETAILS.md).
+
 ## Author
 
 **Yosuke**  
