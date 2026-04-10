@@ -24,7 +24,7 @@ The code is intended as an implementation-level companion to the corresponding p
 - `finite_like_minimal.py` — core minimal architecture (classification, reinjection, premise update)
 - `finite_like_schema.py` — schema compression and dynamic unfreezing
 - `finite_like_eo.py` — EO monitoring extension
-- `finite_like_temporal.py` — temporal deferral (margin preservation, DMM v2.0 §5.4)
+- `finite_like_temporal.py` — temporal deferral (margin preservation, DMM v2.0 §5)
 - `example_usage.py` — minimal schema demo
 
 ## Quick Start
@@ -118,7 +118,7 @@ ORCID: https://orcid.org/0009-0002-6477-9087
 - This repository is a **reference implementation**, not production software.
 - Scoring functions are structural placeholders and remain domain-dependent.
 - The implementation preserves structural consistency with the associated preprints.
-- `finite_like_temporal.py` implements temporal deferral as a reference implementation of margin preservation in DMM v2.0 §5.4. It is not a rollback mechanism and does not modify the semantics of DMM's rollback operation.
+- `finite_like_temporal.py` implements temporal deferral as a reference implementation of margin preservation in DMM v2.0 §5. It is not a rollback mechanism and does not modify the semantics of DMM's rollback operation.
 
 ## License
 
