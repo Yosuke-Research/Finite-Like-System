@@ -2,7 +2,7 @@
 Finite-Like System: Temporal Deferral
 ======================================
 Reference implementation of margin preservation via temporal
-deferral, corresponding to DMM v2.0 §5.4.
+deferral, corresponding to DMM v2.0 §5.
 
 This module implements temporal load redistribution (deferral
 and reinjection) as a margin preservation mechanism. It is NOT
